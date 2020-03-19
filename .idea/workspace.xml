@@ -49,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.p29-2">
+  <component name="RunManager" selected="Python.p7-20">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p25-5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p5-10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p25" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p25/p25-5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p5/p5-10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p26-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p7-0" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p26" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p26/p26-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p7/p7-0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p28-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p7-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p28" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p28/p28-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p7/p7-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p29-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p7-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p29" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p29/p29-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p7/p7-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p29-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p7-20" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p29" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p29/p29-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p7/p7-20.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,19 +191,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.p25-5" />
-      <item itemvalue="Python.p26-1" />
-      <item itemvalue="Python.p28-1" />
-      <item itemvalue="Python.p29-1" />
-      <item itemvalue="Python.p29-2" />
+      <item itemvalue="Python.p5-10" />
+      <item itemvalue="Python.p7-0" />
+      <item itemvalue="Python.p7-1" />
+      <item itemvalue="Python.p7-2" />
+      <item itemvalue="Python.p7-20" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.p29-2" />
-        <item itemvalue="Python.p29-1" />
-        <item itemvalue="Python.p28-1" />
-        <item itemvalue="Python.p26-1" />
-        <item itemvalue="Python.p25-5" />
+        <item itemvalue="Python.p7-20" />
+        <item itemvalue="Python.p7-2" />
+        <item itemvalue="Python.p7-1" />
+        <item itemvalue="Python.p7-0" />
+        <item itemvalue="Python.p5-10" />
       </list>
     </recent_temporary>
   </component>
@@ -248,38 +248,6 @@
     </task>
     <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 17h 48m 05s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 17h 51m 59s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 17h 52m 54s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 17h 54m 12s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 18h 00m 02s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 18h 03m 07s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 18h 03m 42s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 18h 05m 51s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 18h 06m 55s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 19h 08m 46s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
