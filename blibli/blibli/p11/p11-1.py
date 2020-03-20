@@ -1,7 +1,6 @@
-member = ['小甲鱼','牡丹','小布丁']
-temp = member[0]
-member[0] = member[1]
-member[1] = temp
-print(member)
-print(member[0])
-print(member[1])
+member=['小甲鱼',88,'黑夜','90','迷途','85','怡静','90','秋舞斜阳','88']
+count = 0
+length = len(member)
+while count < length:
+    print(member[count],member[count+1])
+    count +=2

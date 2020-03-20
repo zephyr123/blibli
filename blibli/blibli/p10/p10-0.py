@@ -5,9 +5,9 @@ j = '*'
 while i<2:
     if userpasswd == password:
         print('恭喜您，密码正确!')
+        break
+    else:
         for j in userpasswd:
             continue
-        break
-
-    userpasswd=input('输错了,请重新输入您的密码:')
-    i+=1
+        userpasswd = input('输错了,请重新输入您的密码:')
+        i+=1

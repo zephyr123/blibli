@@ -1,8 +1,5 @@
-member = ['小甲鱼','小布丁','黑夜','迷夜','意境']
-#member.remove('黑夜')
-#del member[0]
-#删除整个列表
-#del member
-#member.pop()
-member.pop(1)
-print(member)
+member=['小甲鱼',88,'黑夜','90','迷途','85','怡静','90','秋舞斜阳','88']
+print(len(member))
+for each in range(len(member)):
+    if each%2==0:
+        print(member[each],member[each+1])
