@@ -1,7 +1,9 @@
-def MyFirstFunction():
-    print('这是我创建的第一个函数:')
-    print('我表示很激动')
-    print('在此,我要感谢CCAV,感谢小甲鱼,感谢各位鱼油')
-
-
-MyFirstFunction()
+#1.视频中我们说sum()这个BIF有个缺陷，就是如果参数里有字符串类型的话就会报错，请写出一个新的实现过程，
+# 自动"无视"参数里的字符串并返回正确的计算结果。
+numbers=input('请输入一个数字:')
+temp=[]
+for each in numbers:
+    if  not each.isalpha():
+        each = int(each)
+        temp.append(each)
+print(sum(temp))
