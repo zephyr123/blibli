@@ -1,6 +1,4 @@
-# 关键字参数
-def SaySome(name, words):
-    print(name + '->' + words)
+def MySecondFunction(name):
+    print(name + '我爱你!')
 
-
-SaySome(words='让编程改成世界', name='小甲鱼')
+MySecondFunction('小甲鱼')
