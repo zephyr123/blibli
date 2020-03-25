@@ -1,7 +1,12 @@
-def gcd(x,y):
-    while y:
-        t = x%y
-        x = y
-        y = t
-    return x
-print(gcd(4,6))
+def Narcissus():
+    for each in range(100,1000):
+        temp = each
+        sum = 0
+        while temp:
+            sum = sum + (temp%10) ** 3
+            temp = temp // 10 #注意这里用地板除
+        if sum == each:
+            print(each,end= '\t')
+    print("所有的水仙花数分别是:",end='')
+
+Narcissus()

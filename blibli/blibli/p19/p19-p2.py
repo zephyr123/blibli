@@ -1,16 +1,12 @@
-#2.编写一个将十进制转换为二进制的函数,要求采用"除 2取余"(脑补链接)的方式,
-# 结果与调用bin()一样返回字符串形式。
-def binary(x):
-    temp=list()
-    while x//2:
-        temp.append(x % 2)
-        x = x//2
-        if x == 1:
-            temp.append(x % 2)
-            break
-    temp.reverse()
-    s=''
-    for i in temp:
-        s+=str(i)
-    return s
-print(binary(62))
+#2.编写一个函数findstr(),该函数统计一个长度为2的子字符串在另一个字符串中出现的次数.
+# 例如:假定输入的字符串为"You cannot improve your past,but you can improve your future.
+# Once time is wasted,life is wasted.",子字符串为"im",函数执行后打印"子字母串在目标字符串
+# 中共出现3次".
+def findstr():
+    umstr = input('请输入目标字符串:')
+    print('\n')
+    secondstr=input('请输入子字符串(两个字符):')
+    times = umstr.count(secondstr)
+    print('子字符串在目标字符串中共出现 ',times,' 次')
+
+findstr()

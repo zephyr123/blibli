@@ -1,3 +1,11 @@
-brand = ['李宁','耐克','阿迪达斯','鱼C工作室']
-slogan = ['一切都有可能','Just do it','Impossible','让编程改变世界']
-print('鱼C工作室的口号是:',slogan[brand.index('鱼C工作室')])
+def hanoi(n,x,y,z):
+    if n == 1:
+        print(x,'-->',z)
+    else:
+        hanoi(n-1,x,z,y)#将前n-1个盘子从x移动到y上
+        print(x,'-->',z) #将最底下的最后一个盘子从x移动到z上
+        #将y上的n-1个盘子移动到z上
+        hanoi(n-1,y,x,z)
+
+n = int(input('请输入汉诺塔的层数:'))
+hanoi(n,'X','Y','Z')

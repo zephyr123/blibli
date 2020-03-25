@@ -1,19 +1,9 @@
-def fab(n):
-    n1 = 1
-    n2 = 1
-    n3 = 1
-    if n < 1:
-        print('输入有误!')
-        return -1
-    while (n - 2) > 0:
-        n3 = n2 + n1
-        n1 = n2
-        n2 = n3
-        n -= 1
+def factorial(n):
+    if n == 1:
+        return 1
+    else:
+        return n * factorial(n-1)
 
-    return n3
-
-
-result = fab(35)
-if result != -1:
-    print('总共有%d对兔子诞生!' % result)
+number = int(input('请输入一个正整数:'))
+result = factorial(number)
+print('%d 的阶乘是: %d' %(number,result))
