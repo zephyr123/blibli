@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b34f439-e0a0-43ad-b14d-13dc516661ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p17/p17-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p17/p17-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p17/p17-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p17/p17-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p18/p18-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p18/p18-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p18/p18-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p18/p18-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p18/p18-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p19/p19-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p20/p20-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p20/p20-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p20/p20-3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p20/p20-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p20/p20-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p21/p21-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p21/p21-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p22/p22-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p22/p22-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p23/p23-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p23/p23-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blibli/blibli/p24/p24-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blibli/blibli/p26/p26-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/blibli/blibli/p26/p26-1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="D:/Program Files/Git/mingw64/bin/git.exe" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -70,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.p24-1">
+  <component name="RunManager" selected="Python.p26-00">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p22-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="harbor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p22" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p22/p22-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/practice/harbor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,70 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p22-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p22" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p22/p22-2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="p23-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p23" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p23/p23-1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="p23-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p23" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p23/p23-2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="p24-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p24-p22" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,7 +105,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p24/p24-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p24/p24-p22.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p25-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p25" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p25/p25-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p26-0" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p26" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p26/p26-0.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="p26-00" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p26" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p26/p26-00.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,19 +192,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.p22-1" />
-      <item itemvalue="Python.p22-2" />
-      <item itemvalue="Python.p23-1" />
-      <item itemvalue="Python.p23-2" />
-      <item itemvalue="Python.p24-1" />
+      <item itemvalue="Python.p24-p22" />
+      <item itemvalue="Python.p25-1" />
+      <item itemvalue="Python.harbor" />
+      <item itemvalue="Python.p26-0" />
+      <item itemvalue="Python.p26-00" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.p24-1" />
-        <item itemvalue="Python.p23-2" />
-        <item itemvalue="Python.p23-1" />
-        <item itemvalue="Python.p22-2" />
-        <item itemvalue="Python.p22-1" />
+        <item itemvalue="Python.p26-00" />
+        <item itemvalue="Python.p26-0" />
+        <item itemvalue="Python.harbor" />
+        <item itemvalue="Python.p25-1" />
+        <item itemvalue="Python.p24-p22" />
       </list>
     </recent_temporary>
   </component>
@@ -253,40 +233,22 @@
       <option name="project" value="LOCAL" />
       <updated>1583674189121</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="p17-p24">
+      <created>1583674430683</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583674430683</updated>
+    </task>
+    <task id="LOCAL-00004" summary="p17-p24">
+      <created>1583674454043</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1583674454043</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 17h 48m 05s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 17h 51m 59s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 17h 52m 54s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 17h 54m 12s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 18h 00m 02s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 18h 03m 07s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 18h 03m 42s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 18h 05m 51s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 18h 06m 55s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test12_5_run_test - 2019.07.14 at 19h 08m 46s.xml">
-      <configuration name="Unittests for test12_5.run_test" configurationId="tests" />
-    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
