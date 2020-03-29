@@ -1,38 +1,23 @@
-import os
-import os.path
-filenames = os.listdir('f:\\p30\\0_dir')
-# print(filenames)
-list = []
-i = 0
-for each_filename in filenames:
-    file = os.path.splitext(each_filename)
-    for item in file:
-        list.append(item)
-#print(list)
-print('该文件夹下共有类型为[.txt]的文件'+ str(list.count('.txt')) + '个')
-print('该文件夹下共有类型为[.png]的文件'+ str(list.count('.png')) + '个')
-print('该文件夹下共有类型为[.py]的文件'+ str(list.count('.py')) + '个')
-print('该文件夹下共有类型为[.docx]的文件'+ str(list.count('.docx')) + '个')
-print('该文件夹下共有类型为[文件夹]的文件'+ str(list.count('')) + '个')
-    #
-    # if file[1] == '.txt':
-    #     i += 1
-    #     print('该文件夹下共有类型为[.txt]的文件'+ str(i) + '个')
-    #
-    # elif file[1] == '.png':
-    #     i = 0
-    #     i += 1
-    #     print('该文件夹下共有类型为[.png]的文件'+ str(i) + '个')
-    # elif file[1] == '.py':
-    #     i = 0
-    #     i += 1
-    #     print('该文件夹下共有类型为[.py]的文件'+ str(i) + '个')
-    #
-    # elif file[1] == '.docx':
-    #     i = 0
-    #     i += 1
-    #     print('该文件夹下共有类型为[.docx]的文件'+ str(i) + '个')
-    # else:
-    #     i = 0
-    #     i += 1
-    #     print('该文件夹下共有类型为[文件夹]的文件' + str(i) + '个')
+'''
+任务:将文件(record.txt)中的数据进行分割并按照以下规律保存起来:
+- 小甲鱼的对话单独保存为boy_*.txt的文件(去掉"小甲鱼:")
+- 小客服的对话单独保存为girl_*.txt的文件(去掉"小客服:")
+- 文件中总共有三段对话,分别保存为boy_1.txt,girl_1.txt,boy_2.txt,gir_2.txt,boy_3.txt,girl_3.txt
+共6个文件(提示:文件中不同的对话间已经使用"======="分割)
+'''
+f=open('F:\\python_work\\blibli\\blibli\\p30\\record.txt','r',encoding='utf8')
+file_dir = 'F:\\python_work\\blibli\\blibli\\p30\\'
+count = 1
+for each_line in f:
+    if '======' in each_line:
+        count += 1
+    boy_file = 'boy_' + str(count) +'.txt'
+    girl_file = 'girl_' + str(count) + '.txt'
+    boy_files= open( file_dir + boy_file,'a+')
+    girl_files = open( file_dir + girl_file,'a+')
+    if '小客服' in each_line:
+        girl_files.write(each_line.split(':')[1])
+    elif '小甲鱼' in each_line:
+        boy_files.write(each_line.split(':')[1])
+
+
