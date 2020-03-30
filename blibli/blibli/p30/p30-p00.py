@@ -1,7 +1,7 @@
-
+#-*- coding:UTF8 -*-
 def file_write(file_name):
     f = open(file_name,'w')
-    print('ÇëÊäÈëÄÚÈİ¡¾µ¥¶ÀÊäÈë\':w\'¡¿±£´æÍË³ö:')
+    print('è¯·è¾“å…¥å†…å®¹ã€å•ç‹¬è¾“å…¥\':w\'ã€‘ä¿å­˜é€€å‡º:')
 
     while True:
         write_some = input()
@@ -11,5 +11,5 @@ def file_write(file_name):
             break
     f.close()
 
-file_name = input('ÇëÊäÈëÎÄ¼şÃû:')
+file_name = input('è¯·è¾“å…¥æ–‡ä»¶å:')
 file_write(file_name)
