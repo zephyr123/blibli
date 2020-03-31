@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b34f439-e0a0-43ad-b14d-13dc516661ac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blibli/blibli/p30/p30-11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blibli/blibli/p30/p30-p00.py" beforeDir="false" afterPath="$PROJECT_DIR$/blibli/blibli/p30/p30-p00.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blibli/blibli/p30/something.txt" beforeDir="false" afterPath="$PROJECT_DIR$/blibli/blibli/p30/something.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +33,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\python_work\blibli\blibli\p31" />
+      <recent name="F:\python_work\blibli\blibli\p31\t0" />
       <recent name="F:\python_work\blibli\p2" />
       <recent name="D:\python_work\book\p12\p12-3\" />
     </key>
@@ -52,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.p30-p44">
+  <component name="RunManager" selected="Python.p31-p4">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +73,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p30-p00" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p31-p2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p30" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p31" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p30/p30-p00.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p31/p31-p2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p30-p11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p31-p22" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p30" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p31" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p30/p30-p11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p31/p31-p22.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p30-p22" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p31-p3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p30" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p31" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p30/p30-p22.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p31/p31-p3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p30-p33" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p31-p33" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p30" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p31" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p30/p30-p33.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p31/p31-p33.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p30-p44" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="p31-p4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -166,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p30" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blibli/blibli/p31/t0" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blibli/blibli/p30/p30-p44.py" />
+      <option name="SCRIPT_NAME" value="F:\python_work\blibli\blibli\p31\p31-p4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,19 +193,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.p30-p00" />
-      <item itemvalue="Python.p30-p11" />
-      <item itemvalue="Python.p30-p22" />
-      <item itemvalue="Python.p30-p33" />
-      <item itemvalue="Python.p30-p44" />
+      <item itemvalue="Python.p31-p2" />
+      <item itemvalue="Python.p31-p3" />
+      <item itemvalue="Python.p31-p22" />
+      <item itemvalue="Python.p31-p33" />
+      <item itemvalue="Python.p31-p4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.p30-p44" />
-        <item itemvalue="Python.p30-p33" />
-        <item itemvalue="Python.p30-p22" />
-        <item itemvalue="Python.p30-p11" />
-        <item itemvalue="Python.p30-p00" />
+        <item itemvalue="Python.p31-p4" />
+        <item itemvalue="Python.p31-p33" />
+        <item itemvalue="Python.p31-p3" />
+        <item itemvalue="Python.p31-p2" />
+        <item itemvalue="Python.p31-p22" />
       </list>
     </recent_temporary>
   </component>
