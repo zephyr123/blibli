@@ -16,4 +16,4 @@ c1.x = 18
 print(c1.size)
 print(c1.getSize())
 del c1.x
-print(c1.size)
+# print(c1.size)
