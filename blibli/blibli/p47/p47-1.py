@@ -1,7 +1,7 @@
 #coding:utf8
 class MyProperty:
     def __init__(self,fget=None,fset=None,fdel=None):
-        self.get = fget
+        self.fget = fget
         self.fset = fset
         self.fdel = fdel
 
@@ -9,7 +9,7 @@ class MyProperty:
         return self.fget(instance)
     def __set__(self, instance, value):
         self.fset(instance,value)
-    def __del__(self,instance):
+    def __delete__(self,instance):
         self.fdel(instance)
 
 class C:
@@ -27,5 +27,5 @@ class C:
 c = C()
 c.x = 'X-man'
 print(c.x)
-
+del c.x
 

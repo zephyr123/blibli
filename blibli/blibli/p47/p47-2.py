@@ -18,6 +18,9 @@ class Temperature:
 
 temp = Temperature()
 print(temp.cel)
-temp = Temperature(30)
+# temp = Temperature(30) #会报错
+temp.cel = 30
 print(temp.fah)
+temp.fah = 100
+print(temp.cel)
 
